@@ -1,0 +1,16 @@
+{
+"block.elementalalchemie.keitw_plant":"Keitw Pflanze",
+
+"item.elementalalchemie.keitw_seed":"Keitw Samen",
+"item.elementalalchemie.keitw_fruit":"Keitw Frucht",
+item.elementalalchemie.keitw_twig":"Keitw Zweig",
+"item.elementalalchemie.keitw_fluid_bucket":"Keitw Eimer",
+"item.elementalalchemie.pestel":"St\u00f6\u00dfel",
+"item.elementalalchemie.stone_turtle_crystal":"Steinschildkr\u00f6ten Kristal",
+"item.elementalalchemie.stone_turtle_spawnegg":"Steinschildkr\u00f6ten-Spawn-Ei",
+
+"block.elementalalchemie.juice_extractor":"Entsafter",
+"block.elementalalchemie.primitiv_keitw_fluid_evaporator":"Primitiver Keitw-Fl\u00fcssigkeit Verdampfer",
+"block.elementalalchemie.ban_quad_part":"Ban Quadrat Stein"
+
+}

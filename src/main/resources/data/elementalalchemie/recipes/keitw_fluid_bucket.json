@@ -1,0 +1,17 @@
+{
+  "type": "elementalalchemie:extract_juice",
+  "ingredients": [
+    {
+      "item": "elementalalchemie:keitw_twig"
+    },
+    {
+      "item": "elementalalchemie:keitw_twig"
+    },
+    {
+      "item": "elementalalchemie:stone_turtle_crystal"
+    }
+  ],
+  "result": {
+    "item": "elementalalchemie:keitw_fluid_bucket"
+  }
+}

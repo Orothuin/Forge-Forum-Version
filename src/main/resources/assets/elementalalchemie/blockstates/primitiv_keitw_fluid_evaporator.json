@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "elementalalchemie:block/primitiv_evaporator_lit" },
+        "facing=south": { "model": "elementalalchemie:block/primitiv_evaporator_lit", "y": 180 },
+        "facing=west":  { "model": "elementalalchemie:block/primitiv_evaporator_lit", "y": 270 },
+        "facing=east":  { "model": "elementalalchemie:block/primitiv_evaporator_lit", "y": 90 }
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "minecraft:flowing_water",
+    "elementalalchemie:keitw_fluid",
+    "elementalalchemie:keitw_fluid_flowing"
+  ]
+}

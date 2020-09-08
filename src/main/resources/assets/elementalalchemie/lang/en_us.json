@@ -1,0 +1,15 @@
+{
+"block.elementalalchemie.keitw_plant":"Keitw plant",
+
+"item.elementalalchemie.keitw_seed":"Keitw seed",
+"item.elementalalchemie.keitw_fruit":"Keitw fruit",
+"item.elementalalchemie.keitw_twig":"Keitw twig",
+"item.elementalalchemie.keitw_fluid_bucket":"Keitw bucket",
+"item.elementalalchemie.pestel":"Pestel",
+"item.elementalalchemie.stone_turtle_crystal":"Stoneturtle crystal",
+"item.elementalalchemie.stone_turtle_spawnegg":"Stoneturtle spawnegg",
+
+"block.elementalalchemie.juice_extractor":"Juice extractor",
+"block.elementalalchemie.primitiv_keitw_fluid_evaporator":"Primitiv Keitw-fluid evaporator",
+"block.elementalalchemie.ban_quad_part":"ban quad stone"
+}

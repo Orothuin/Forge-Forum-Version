@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "elementalalchemie:item/pestel"
+    },
+   "display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 94, 43],
+			"translation": [0.25, -5.75, 0],
+			"scale": [0.62, 0.62, 0.62]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, 94, 43],
+			"translation": [0.25, -5.75, 0],
+			"scale": [0.62, 0.62, 0.62]
+		}
+	}
+}
